@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyPlayground</string>
+    <string name="todo">TODO</string>
+    <string name="yes_no">Yes/No</string>
+    <string name="left">Left</string>
+    <string name="center">Center</string>
+    <string name="right">Right</string>
+    <string name="pink_roses">pink roses</string>
+    <string name="buttonGoogle">Google</string>
+    <string name="buttonHome">Home</string>
+</resources>
